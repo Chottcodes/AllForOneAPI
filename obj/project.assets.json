@@ -447,19 +447,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chott\\.nuget\\packages\\": {}
+    "/Users/hassan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chott\\OneDrive\\Desktop\\Level 2\\Assignments\\AllForOneAPI\\AllForOneAPI.csproj",
+      "projectUniqueName": "/Users/hassan/Downloads/AllForOneAPI/AllForOneAPI.csproj",
       "projectName": "AllForOneAPI",
-      "projectPath": "C:\\Users\\chott\\OneDrive\\Desktop\\Level 2\\Assignments\\AllForOneAPI\\AllForOneAPI.csproj",
-      "packagesPath": "C:\\Users\\chott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chott\\OneDrive\\Desktop\\Level 2\\Assignments\\AllForOneAPI\\obj\\",
+      "projectPath": "/Users/hassan/Downloads/AllForOneAPI/AllForOneAPI.csproj",
+      "packagesPath": "/Users/hassan/.nuget/packages/",
+      "outputPath": "/Users/hassan/Downloads/AllForOneAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chott\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/hassan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -512,7 +512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

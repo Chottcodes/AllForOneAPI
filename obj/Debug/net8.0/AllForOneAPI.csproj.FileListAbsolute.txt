@@ -1,32 +1,65 @@
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\appsettings.json
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\AllForOneAPI.exe
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\AllForOneAPI.deps.json
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\AllForOneAPI.runtimeconfig.json
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\AllForOneAPI.dll
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\AllForOneAPI.pdb
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.csproj.AssemblyReference.cache
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.AssemblyInfoInputs.cache
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.AssemblyInfo.cs
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.csproj.CoreCompileInputs.cache
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\staticwebassets\msbuild.AllForOneAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AllForOneAPI.props
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AllForOneAPI.props
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AllForOneAPI.props
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\scopedcss\bundle\AllForOneAPI.styles.css
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOn.A1B16FB0.Up2Date
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.dll
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\refint\AllForOneAPI.dll
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.pdb
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\AllForOneAPI.genruntimeconfig.cache
-C:\Users\chott\OneDrive\Desktop\Level 2\Assignments\AllForOneAPI\obj\Debug\net8.0\ref\AllForOneAPI.dll
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/appsettings.json
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI.exe
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI.deps.json
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI.runtimeconfig.json
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI.dll
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI.pdb
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.csproj.AssemblyReference.cache
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.AssemblyInfoInputs.cache
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.AssemblyInfo.cs
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.csproj.CoreCompileInputs.cache
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/staticwebassets/msbuild.AllForOneAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.AllForOneAPI.props
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AllForOneAPI.props
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AllForOneAPI.props
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/scopedcss/bundle/AllForOneAPI.styles.css
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOn.A1B16FB0.Up2Date
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.dll
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/refint/AllForOneAPI.dll
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.pdb
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.genruntimeconfig.cache
+C:/Users/chott/OneDrive/Desktop/Level 2/Assignments/AllForOneAPI/obj/Debug/net8.0/ref/AllForOneAPI.dll
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/appsettings.json
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI.deps.json
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI.runtimeconfig.json
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI.dll
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/AllForOneAPI.pdb
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hassan/Downloads/AllForOneAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.csproj.AssemblyReference.cache
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.AssemblyInfoInputs.cache
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.AssemblyInfo.cs
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.csproj.CoreCompileInputs.cache
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.sourcelink.json
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/staticwebassets/msbuild.AllForOneAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.AllForOneAPI.props
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AllForOneAPI.props
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AllForOneAPI.props
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/scopedcss/bundle/AllForOneAPI.styles.css
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOn.A1B16FB0.Up2Date
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.dll
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/refint/AllForOneAPI.dll
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.pdb
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/AllForOneAPI.genruntimeconfig.cache
+/Users/hassan/Downloads/AllForOneAPI/obj/Debug/net8.0/ref/AllForOneAPI.dll

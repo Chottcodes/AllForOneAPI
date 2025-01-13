@@ -9,3 +9,5 @@ I Made a Api With EndPoint from all the previous MiniChallenges My Endpoints can
 
 
 // Person who Peer Reviewed your assignment
+Hassan Sajid 
+- Good work Chris! I liked how the guess the number challenge only gave you one chance, it seems more fun that way trying to get the right number. Everything works. Good job.
